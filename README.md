@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey there, I'm Andre 👋
 
+✨ ## About Me
+
+🚀 I'm an aspiring data practitioner with a focus on data analytics and data engineering.
 <!--
 **A-Knight/A-Knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
