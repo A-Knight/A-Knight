@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-andre-knight/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-andre-knight/)
 
 ## 💻 Tech Stack
 
