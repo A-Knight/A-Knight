@@ -1,6 +1,6 @@
 ## Hey there, I'm Andre 👋
 
-✨ ## About Me
+## ✨ About Me
 
 🚀 I'm an aspiring data practitioner with a focus on data analytics and data engineering.
 <!--
